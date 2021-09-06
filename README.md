@@ -1,6 +1,6 @@
 # UFO-Sightings
 
-## Overview of Project:** 
+## Overview of Project
 
 The purpose of this project is to help Dana build an interactive website using JavaScript and HTML. She wants to display a table to organize UFO sightings data. This table will have the ability to filter data based on the users' input. 
 
